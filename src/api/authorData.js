@@ -15,6 +15,11 @@ module.exports = {
       id: 'pink-panther',
       firstName: 'Pink',
       lastName: 'Panther'
+    },
+    {
+      id: 'cory-house',
+      firstName: 'Cory',
+      lastName: 'House'
     }
   ]
 };

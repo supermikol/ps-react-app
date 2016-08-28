@@ -18,7 +18,7 @@ var CourseApi = {
     return _clone(courses);
   },
 
-  getCoursesById: function(id) {
+  getCourseById: function(id) {
     var course = _.find(courses, {id: id});
     return _clone(course);
   },
